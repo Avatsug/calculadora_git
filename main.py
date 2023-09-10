@@ -1,6 +1,4 @@
 # Curso: Backend Python / Calculadora Git / Gustavo Aparicio
-import math 
-
 # Clases para cada operación
 # Clase para sumar
 class suma:
