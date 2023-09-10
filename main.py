@@ -36,7 +36,7 @@ class division:
         self.numero_2 = numero_2
 
     def solucion(self):
-        return self.numero_1 // self.numero_2
+        return self.numero_1 / self.numero_2
     
 # Clase para elevar/potenciar
 class potenciacion:
