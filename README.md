@@ -1,2 +1,10 @@
-# calculadora_git
-Calculadora en Python, utilizando commits en Git/Git Hub
+# Calculadora en Python
+
+## Introducción
+
+## Funcionamiento
+
+## Partes del código
+
+## Conclusiones
+
